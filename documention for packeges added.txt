@@ -1,0 +1,12 @@
+creating booking code
+
+1) added react-router-dom for routing
+2) added npm i --save @fortawesome/fontawesome-svg-core for icons
+	# Free icons styles
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/free-regular-svg-icons
+npm i --save @fortawesome/react-fontawesome@latest
+
+4) added react-date-range for date selection
+5) added date-fns
+
